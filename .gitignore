@@ -1,0 +1,34 @@
+# Vivado project outputs
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.jou
+*.log
+*.str
+*.backup.*
+webtalk*
+vivado_pid*
+xsim.dir/
+*.wdb
+
+# Vitis workspace and build outputs
+.metadata/
+.analytics
+_ide/
+_xilinx_*
+build/
+*.elf
+*.o
+*.d
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
